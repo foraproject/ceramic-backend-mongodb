@@ -1,0 +1,37 @@
+{
+  "author": {
+    "name": "Jeswin Kumar",
+    "email": "jeswinpk@agilehead.com"
+  },
+  "name": "ceramic-backend-mongodb",
+  "version": "0.1.0",
+  "description": "MongoDb backend for the ceramic ODM",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeswin/ceramic-backend-mongodb.git"
+  },
+  "main": "lib/ceramic-backend-mongodb",
+  "dependencies": {
+    "fora-node-thunkify": "*",
+    "mongodb": "*"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">= 0.11.9"
+  },
+  "keywords": [
+    "serialization"
+  ],
+  "license": "GPL-3.0+",
+  "readme": "ceramic-backend-mongo\n=====================\nMongoDb backend for the ceramic ODM\n",
+  "readmeFilename": "README.md",
+  "gitHead": "7a8fcd3062161b43344ebde9053b9b38c0eea50a",
+  "bugs": {
+    "url": "https://github.com/jeswin/ceramic-backend-mongodb/issues"
+  },
+  "homepage": "https://github.com/jeswin/ceramic-backend-mongodb",
+  "_id": "ceramic-backend-mongodb@0.1.0",
+  "scripts": {},
+  "_shasum": "afd64c77cfe8de6ac5e808f79ac81ecd13904c4c",
+  "_from": "ceramic-backend-mongodb@*"
+}
