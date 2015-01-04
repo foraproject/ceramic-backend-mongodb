@@ -1,3 +1,3 @@
-calcify-backend-mongo
+ceramic-backend-mongo
 =====================
-MongoDb backend for the Calcify ODM
+MongoDb backend for the Ceramic ODM
