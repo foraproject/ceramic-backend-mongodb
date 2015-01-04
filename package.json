@@ -4,7 +4,7 @@
     "email": "jeswinpk@agilehead.com"
   },
   "name": "ceramic-backend-mongodb",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "MongoDb backend for the ceramic ODM",
   "repository": {
     "type": "git",
@@ -30,8 +30,8 @@
     "url": "https://github.com/jeswin/ceramic-backend-mongodb/issues"
   },
   "homepage": "https://github.com/jeswin/ceramic-backend-mongodb",
-  "_id": "ceramic-backend-mongodb@0.1.0",
+  "_id": "ceramic-backend-mongodb@0.2.1",
   "scripts": {},
-  "_shasum": "afd64c77cfe8de6ac5e808f79ac81ecd13904c4c",
+  "_shasum": "76bf27f9b31bf291befdf9aa6dd2d3ddba22ce9b",
   "_from": "ceramic-backend-mongodb@*"
 }
