@@ -4,7 +4,7 @@
     "email": "jeswinpk@agilehead.com"
   },
   "name": "ceramic-backend-mongodb",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "MongoDb backend for the ceramic ODM",
   "repository": {
     "type": "git",
