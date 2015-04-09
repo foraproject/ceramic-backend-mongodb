@@ -4,8 +4,8 @@
     "email": "jeswinpk@agilehead.com"
   },
   "name": "ceramic-backend-mongodb",
-  "version": "0.4.4",
-  "description": "MongoDb backend for the ceramic ODM",
+  "version": "1.0.0",
+  "description": "MongoDb backend for the Ceramic DB API",
   "repository": {
     "type": "git",
     "url": "https://github.com/jeswin/ceramic-backend-mongodb.git"
