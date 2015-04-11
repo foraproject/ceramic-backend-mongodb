@@ -4,7 +4,7 @@
     "email": "jeswinpk@agilehead.com"
   },
   "name": "ceramic-backend-mongodb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "MongoDb backend for the Ceramic DB API",
   "repository": {
     "type": "git",
